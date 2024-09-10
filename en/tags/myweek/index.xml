@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MyWeek | My Site</title>
+    <link>https://mtuvshinbayar.github.io/en/tags/myweek/</link>
+      <atom:link href="https://mtuvshinbayar.github.io/en/tags/myweek/index.xml" rel="self" type="application/rss+xml" />
+    <description>MyWeek</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mtuvshinbayar.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>MyWeek</title>
+      <link>https://mtuvshinbayar.github.io/en/tags/myweek/</link>
+    </image>
+    
+    <item>
+      <title>My week from 27.08 to 02.09</title>
+      <link>https://mtuvshinbayar.github.io/en/post/post1/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://mtuvshinbayar.github.io/en/post/post1/</guid>
+      <description>&lt;p&gt;I arrived from my camp to Moscow.&lt;/p&gt;
+&lt;p&gt;I met my friends from RUDN.&lt;/p&gt;
+&lt;p&gt;Prepared documents at MFC.&lt;/p&gt;
+&lt;p&gt;Walked around Moscow.&lt;/p&gt;
+&lt;p&gt;Did homework.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | Мой сайт</title>
+    <link>https://mtuvshinbayar.github.io/tags/ai/</link>
+      <atom:link href="https://mtuvshinbayar.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mtuvshinbayar.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>AI</title>
+      <link>https://mtuvshinbayar.github.io/tags/ai/</link>
+    </image>
+    
+    <item>
+      <title>Искусственный интеллект от чат-ботов к человеческому разуму?</title>
+      <link>https://mtuvshinbayar.github.io/publication/publ1/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://mtuvshinbayar.github.io/publication/publ1/</guid>
+      <description>&lt;p&gt;Искусственный интеллект (ИИ) сегодня не просто модный термин, а реальность, которая стремительно меняет мир. От умных помощников в смартфонах до алгоритмов, управляющих финансами и здравоохранением, ИИ проникает во все сферы жизни. Но насколько он действительно умный?&lt;/p&gt;
+&lt;p&gt;Можем ли мы сравнить ИИ с человеческим разумом? Пока ИИ превосходит людей в узких задачах, таких как игра в шахматы или распознавание изображений, он не обладает самостоятельностью, творчеством и эмоциональным интеллектом.&lt;/p&gt;
+&lt;p&gt;Однако, развитие ИИ продолжается, и ученые ищут пути создания искусственного разума, более близкого к человеческому. Стоит задать себе вопрос: к чему может привести это развитие? Какие этические и философские вопросы оно поднимает?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
